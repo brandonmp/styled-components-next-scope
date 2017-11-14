@@ -1,3 +1,5 @@
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/brandonmp/styled-components-next-scope)
+
 1. clone repo
 2. cd, yarn, etc.
 3. yarn dev
